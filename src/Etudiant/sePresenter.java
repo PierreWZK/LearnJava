@@ -13,7 +13,7 @@ public class sePresenter {
 		//Etudiant ScEtudiant = new Etudiant("DOUSSAIN", "Jimm", 19, "BTS SIO");
 		Panda Pandaa = new Panda(200, 17, "Panda", "Contrôler les plantes", "Jujutsu Kaisen");		
 		
-		//Liste chien
+		//Liste chiens
 		List<Chien> chenil = new ArrayList<Chien>();
 		
 		//Ajoute un chien
